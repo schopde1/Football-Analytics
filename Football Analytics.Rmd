@@ -6,17 +6,6 @@ output: html_document
 ---
 
 
-## Team members
-
-Suhasini Masti
-
-Sylvia Chopde
-
-Parimal Dhasmana
-
-Thanusha Reddy Pappu 
-
-
 ## Business Context 
 
 Data-driven decision making is a vital aspect of virtually all business, and the sports industry is no exception. Over the past two decades, the influence of Data Analytics has been growing in every aspect of our lives: in businesses of every kind, but also in healthcare, media and sports. Until a few years ago, football was thought to be immune from this trend. Now, the early adopters in the major football leagues are thriving thanks to the competitive advantage that investments in data analytics are beginning to provide them: Liverpool, AZ Alkmaar and Brentford are just a few in the fast-growing list of successful case studies. In our view, the clubs that aren’t planning to jump on the analytics bandwagon run the risk of being left behind.
